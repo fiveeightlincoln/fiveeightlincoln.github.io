@@ -707,11 +707,11 @@ section {
   position: absolute;
   left: 30px;
   right: 30px;
-  bottom: 20px;
+  bottom: 2px;
   z-index: 3;
   transition: all ease-in-out 0.3s;
   background: rgba(255, 255, 255, 0.9);
-  padding: 15px;
+  padding: 5px;
 }
 .portfolio .portfolio-item .portfolio-info h4 {
   font-size: 18px;
@@ -758,7 +758,7 @@ section {
 }
 .portfolio .portfolio-item:hover .portfolio-info {
   opacity: 1;
-  bottom: 20px;
+  bottom: 2px;
 }
 
 /*--------------------------------------------------------------
